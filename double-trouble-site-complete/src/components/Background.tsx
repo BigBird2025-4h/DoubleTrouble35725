@@ -2,7 +2,7 @@
 
 export default function Background() {
   return (
-    <div className="fixed inset-0 -z-50 pointer-events-none bg-cream">
+    <div className="fixed inset-0 -z-50 pointer-events-none bg-#F3B61A">
       {/* PAPER GRAIN */}
       <div className="absolute inset-0 grain-overlay" />
 
